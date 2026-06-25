@@ -1,0 +1,9 @@
+{
+    "telemetry.feedback.enabled": false,
+    "workbench.activityBar.compact": true,
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.statusBar.visible": false,
+    "workbench.tips.enabled": false,
+    "chat.agent.enabled": false,
+    "editor.minimap.autohide": "scroll"
+}

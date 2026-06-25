@@ -1,0 +1,55 @@
+[general]
+live_config_reload = false
+
+[font]
+normal = { family = "Atkinson Hyperlegible Mono", style = "Regular" }
+bold = { style = "Bold" }
+italic = { style = "Italic" }
+bold_italic = { style = "Bold Italic" }
+size = 12
+
+[window]
+padding = {x = 10, y = 10}
+opacity = 0.8
+blur = true
+
+# Default colors
+[colors.primary]
+background = '#000000'
+foreground = '#eaeaea'
+
+# Normal colors
+[colors.normal]
+black   = '#4c4c4c'
+red     = '#bb0000'
+green   = '#5fde8f'
+yellow  = '#f3f167'
+blue    = '#276bd8'
+magenta = '#bb00bb'
+cyan    = '#00dadf'
+white   = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black   = '#555555'
+red     = '#ff5555'
+green   = '#55ff55'
+yellow  = '#ffff55'
+blue    = '#5555ff'
+magenta = '#ff55ff'
+cyan    = '#55ffff'
+white   = '#ffffff'
+
+
+[bell]
+animation = "EaseOutCirc"
+duration = 100
+color = "#777777"
+
+[cursor]
+style = {shape = "Block", blinking = "On"}
+blink_timeout = 15
+thickness = 0.2
+
+
+

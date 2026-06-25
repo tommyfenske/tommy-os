@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/usr/local/bin/zen
+Name=Zen
+Comment=zen
+Icon=/home/tommycom/Pictures/tux.png
